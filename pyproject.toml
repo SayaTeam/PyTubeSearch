@@ -9,10 +9,10 @@ description = "A Python package for searching YouTube by keywords"
 readme = "README.md"
 license = "MIT"
 authors = [
-    {name = "Malith Rukshan", email = "hello@malith.dev"}
+    {name = "Рнвли", email = "hey@shnwaz.dev"}
 ]
 maintainers = [
-    {name = "Malith Rukshan", email = "hello@malith.dev"}
+    {name = "Рнвли", email = "hey@shnwaz.dev"}
 ]
 keywords = ["youtube", "search", "api", "video", "youtube-search"]
 classifiers = [
