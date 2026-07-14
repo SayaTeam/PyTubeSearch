@@ -38,7 +38,7 @@ pip install pytubesearch
 ### Development Installation
 
 ```bash
-git clone https://github.com/Malith-Rukshan/PyTubeSearch.git
+git clone https://github.com/SayaTeam/PyTubeSearch.git
 cd PyTubeSearch
 pip install -e .
 ```
@@ -228,7 +228,7 @@ with PyTubeSearch() as client:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Malith-Rukshan/PyTubeSearch.git
+   git clone https://github.com/SayaTeam/PyTubeSearch.git
    cd PyTubeSearch
    ```
 
