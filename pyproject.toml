@@ -64,10 +64,10 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Malith-Rukshan/PyTubeSearch"
-Repository = "https://github.com/Malith-Rukshan/PyTubeSearch"
-Issues = "https://github.com/Malith-Rukshan/PyTubeSearch/issues"
-Documentation = "https://github.com/Malith-Rukshan/PyTubeSearch/blob/main/README.md"
+Homepage = "https://github.com/SayaTeam"
+Repository = "https://github.com/SayaTeam"
+Issues = "https://github.com/SayaProject"
+Documentation = "https://sayaproject.org/"
 
 [tool.setuptools.packages.find]
 where = ["."]
