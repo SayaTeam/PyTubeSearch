@@ -465,7 +465,7 @@ except PyTubeSearchError as e:
 ### Setup Development Environment
 
 ```bash
-git clone https://github.com/Malith-Rukshan/PyTubeSearch.git
+git clone https://github.com/SayaTeam/PyTubeSearch.git
 cd PyTubeSearch
 pip install -e ".[dev]"
 ```
@@ -516,11 +516,4 @@ This package is for educational purposes only. Please respect YouTube's Terms of
 
 If you found this project helpful, please give it a ⭐ on GitHub. This helps more developers discover the project! 🫶
 
-## 📬 Contact
-
-If you have any questions, feedback, or just want to say hi, you can reach out to me:
-
-- Email: [hello@malith.dev](mailto:hello@malith.dev)
-- GitHub: [@Malith-Rukshan](https://github.com/Malith-Rukshan)
-
-🧑‍💻 Built with 💖 by [Malith Rukshan](https://malith.dev)
+th.dev)
